@@ -20,6 +20,12 @@ Create your own Flex Channel Orchestrator.
 4. Successfuly test an end to end messaging. 
 
 # Project 3
+Add a custom messaging channel (Viber, Twitter, Instagram, Linkedin) to Flex.
 
 ## Objective
+1. Setup access to the relevant API
+2. Create an application to intercept messaging webhooks
+3. Implemnt custom channel orchestration 
 
+# Project 4
+To be Decided 
